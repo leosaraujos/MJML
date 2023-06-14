@@ -1,0 +1,13 @@
+<mjml>
+  <mj-head>
+    <!-- Atributos -->
+    <mj-include path="atributes.mjml" />
+  </mj-head>  
+  <mj-body>
+    
+
+    <!-- Footer -->
+    <mj-include path="footer.mjml" />
+
+  </mj-body>
+</mjml>

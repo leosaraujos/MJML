@@ -1,0 +1,49 @@
+    <!-- Rodapé -->
+    <mj-section mj-class="full-width p-np bg-gray-01">
+
+      <mj-column width="100%">
+        <mj-image src="logo-integra-footer.png" alt="Rede Integra Saúde - Uma vida saudável em todos os pilares" align="center" mj-class="pt-30" width="64px" />
+        <mj-text mj-class="pb-0 c-white t-normal-b" align="center">
+          Rede Integra Saúde
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%" mj-class="bg-gray-01 pt-0 pb-15">
+        <mj-text mj-class="p-np pt-15 c-white" align="center">
+          Dúvidas? Saiba mais na nossa <a href="https://redeintegrasaude.com" mj-class="link-default">Central de Ajuda</a><br>
+          SAC 0800 000 000<br>
+          <a href="mailto:ajuda@redeintegrasaude.com">ajuda@redeintegrasaude.com</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%" mj-class="bg-gray-01 pt-15 pb-15">
+        <mj-text mj-class="p-np c-white" align="center">
+          Siga nas redes sociais
+        </mj-text>
+      </mj-column>
+
+      <mj-column mj-class="p-0">
+        <mj-image href="https://www.instagram.com/rede.integrasaude/" target="_blank" src="instagram.png" width="32px" alt="social-integra-saude" align="center" />
+      </mj-column>
+      <mj-column mj-class="p-0">
+        <mj-image href="https://www.facebook.com/" target="_blank" src="facebook.png" width="36px" alt="social-integra-saude" align="center" />
+      </mj-column>
+      <mj-column mj-class="p-0">
+        <mj-image href="https://www.linkedin.com/" target="_blank" src="linkedin.png" width="36px" alt="social-integra-saude" align="center" />
+      </mj-column>
+      <mj-column mj-class="p-0">
+        <mj-image href="https://twitter.com/" target="_blank" src="twitter.png" width="36px" alt="social-integra-saude" align="center" />
+      </mj-column>
+
+      <mj-column width="100%" mj-class="pt-15 pb-15">
+        <mj-divider mj-class="p-8" border-width="1px" border-style="solid" border-color="#ffffff" />
+        <mj-image src="logo-equilibrio-footer.png" alt="Rede Integra Saúde - Uma vida saudável em todos os pilares" align="center" mj-class="pb-15" width="82px" />
+        <mj-text mj-class="pt-np c-white" align="center">
+          <strong>Rede Integra Saúde</strong> <br> <strong>CNPJ</strong> 123.123.123.000-00
+        </mj-text>
+        <mj-text mj-class="ph-np pt-15 c-white t-small" align="center">
+          © Copyright © 2023 Rede Integra Saúde | Todos os direitos reservados
+        </mj-text>
+      </mj-column>
+
+    </mj-section>

@@ -1,0 +1,263 @@
+<mjml lang="pt-br">
+  <mj-head>
+    <!-- Title page -->
+    <mj-title>Rede Integra Saúde - Uma vida saudável em todos os pilares</mj-title>
+
+    <mj-font
+      name="Nunito Sans"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500&display=swap"/>
+
+    <mj-attributes>
+      <!-- Default -->
+      <mj-all
+        font-family="'Nunito Sans', sans-serif !important"
+        font-weight="400"
+        font-size="16px"
+        line-height="22px" 
+        color="#6D6E71"       
+      />
+      <!-- cores -->        
+        <mj-class name="c-white" color="#FFFFFF" />
+        <mj-class name="bg-white" background-color="#FFFFFF" />
+        
+        <mj-class name="c-red" color="#FE4059" />  
+        <mj-class name="bg-red" background-color="#FE4059" />  
+
+        <mj-class name="c-gray-01" color="#454545" />  
+        <mj-class name="bg-gray-01" background-color="#454545" />         
+
+        <mj-class name="c-gray-02" color="#6D6E71" />                 
+        <mj-class name="bg-gray-02" background-color="#6D6E71" />
+
+        <mj-class name="c-pendente" color="#FF9800" />
+        <mj-class name="c-agendado" color="#3067F9" />
+        <mj-class name="c-cancelado" color="#D32F2F" />
+
+      <!-- Content   -->
+        <mj-class name="full-width" max-width="600px"/>
+
+      <!-- Fonts -->
+      <mj-class name="t-small" font-size="12px" font-weight="400" />
+      <mj-class name="t-small-b" font-size="12px" font-weight="bold" />
+      <mj-class name="t-big" font-size="24px" line-height="28px" font-weight="400" />
+      <mj-class name="t-normal" font-size="16px" line-height="25px" font-weight="400" />
+      <mj-class name="t-normal-b" font-size="22px" line-height="25px" font-weight="bold" />
+      <mj-class name="t-bold" font-weight="500" font-weight="bold" />
+
+      <!-- Paddings -->
+      <mj-class name="p-np" padding="0" />
+      <mj-class name="p-15" padding="16px" />
+      <mj-class name="p-30" padding="32px" />
+      <mj-class name="p-60" padding="64px" />
+      <mj-class name="plr-10" padding="10px" />
+
+      <mj-class name="pt-np" padding-top="0" />
+      <mj-class name="pb-np" padding-bottom="0" />
+      <mj-class name="pr-np" padding-right="0" />
+      <mj-class name="pl-np" padding-left="0" />
+
+      <mj-class name="pt-5" padding-top="8px" />
+      <mj-class name="pb-5" padding-bottom="8px" />
+      <mj-class name="pr-5" padding-right="8px" />
+      <mj-class name="pl-5" padding-left="8px" />
+
+      <mj-class name="pt-15" padding-top="16px" />
+      <mj-class name="pb-15" padding-bottom="16px" />
+      <mj-class name="pr-15" padding-right="16px" />
+      <mj-class name="pl-15" padding-left="16px" />
+
+      <mj-class name="pt-30" padding-top="32px" />
+      <mj-class name="pb-30" padding-bottom="32px" />
+      <mj-class name="pr-30" padding-right="32px" />
+      <mj-class name="pl-30" padding-left="32px" />
+      <mj-class name="pl-60" padding-left="60px" />
+
+      <mj-class name="ph-np" padding-right="0" padding-left="0" />
+      <mj-class name="ph-15" padding-right="16px" padding-left="16px" />
+      <mj-class name="ph-30" padding-right="32px" padding-left="32px" />
+      <mj-class name="ph-60" padding-right="60px" padding-left="60px" />
+
+      <mj-class name="pv-np" padding-top="0" padding-bottom="0" />
+      <mj-class name="pv-15" padding-top="16px" padding-bottom="16px" />
+      <mj-class name="pv-30" padding-top="32px" padding-bottom="32px" />
+      <mj-class name="pv-60" padding-top="60px" padding-bottom="60px" />
+    </mj-attributes>
+
+    <mj-style inline="inline">
+        a { text-decoration: underline; color: inherit; }
+        span { color:#454545; font-weight:bold; font-size: 18px}
+        small { color:#6D6E71; font-size: 14px}
+        strong { font-weight:bold;}
+        .link-consulta { font-size: 20px; color:#FE4059; text-decoration: underline}
+        .tag-orange {color:#FF9800; border: 1px solid #FF9800; padding:6px 22px; border-radius: 100px}
+        .tag-blue {color:#3067F9; border: 1px solid #3067F9; padding:6px 22px; border-radius: 100px}
+        .tag-red {color:#D32F2F; border: 1px solid #D32F2F; padding:6px 22px; border-radius: 100px}
+    </mj-style>
+ 
+    
+  </mj-head>
+
+  <mj-body>
+    <!-- Cabeçalho -->
+    <mj-section full-width="full-width" mj-class="p-np">
+        <mj-column width="100%" mj-class="bg-white">
+            <mj-image          
+            src="header-email.png"
+            alt="Rede Integra Saúde - Uma vida saudável em todos os pilares"
+            align="center"
+            mj-class="p-np"
+            width="600px"
+            />
+        </mj-column>
+    </mj-section>
+
+    <!-- Container -->
+    <mj-section mj-class="p-np pt-np">
+        <mj-column width="100%" mj-class="bg-white">
+
+            <mj-image        
+                src="icon-email.png"
+                alt="Rede Integra Saúde - Uma vida saudável em todos os pilares"
+                align="center"
+                mj-class="pt-30"
+                width="120px"
+            />
+      
+            <mj-text mj-class="t-big pt-30 pb-0 c-gray-01" align="center">
+                Consulta agendada!
+            </mj-text>   
+            <mj-text mj-class="pt-0 pb-15 ph-30" align="center">
+                Olá <span>${.nomeProfissional}</span>.
+            </mj-text>        
+            <mj-text mj-class="pt-np pb-30" align="center">
+                Um paciente agendou uma consulta com você, mas o pagamento ainda está pendente. Assim que estiver tudo ok, enviaremos os detalhes da consulta. Fique atento(a) à atualização do status do pagamento.
+            </mj-text>   
+
+        </mj-column>        
+    </mj-section>        
+
+    <!-- Detalhes da consulta -->
+    <mj-section mj-class="p-np pt-np">
+        <mj-column width="100%" mj-class="bg-white pb-30">
+            <mj-text mj-class="pb-0 pl-60 t-bold">
+                Detalhes da consulta
+            </mj-text>
+            <mj-table width="480px" align="center">
+                <tr style="background-color:#F5F5F5">
+                    <td colspan="2" style="text-align:left; padding: 12px;">
+                        <span>${.nomeProfissional}</span><br>
+                        <small>${.numberReg-Prof}</small>
+                    </td>
+                </tr>
+                <tr style="background-color:#F5F5F5">
+                    <td style="text-align:left; padding: 2px 12px;">Especialidade</td>
+                    <td style="text-align:right; padding: 2px 12px;">${.nomeEspecialidade}</td>
+                </tr>
+                <tr style="background-color:#F5F5F5">
+                    <td style="text-align:left; padding: 2px 12px;">Tipo</td>
+                    <td style="text-align:right; padding: 2px 12px;">${.tipoConsulta}</td>
+                </tr>
+                <tr style="background-color:#F5F5F5">
+                    <td style="text-align:left; padding: 2px 12px;">Data / Hora</td>
+                    <td style="text-align:right; padding: 2px 12px;">${.datahora}</td>
+                </tr>
+                <tr style="background-color:#F5F5F5">
+                    <td style="text-align:left; padding: 2px 12px;">Data / Hora</td>
+                    <td style="text-align:right; padding: 2px 12px;">${.datahora}</td>
+                </tr>
+                <tr style="background-color:#F5F5F5">
+                    <td style="text-align:left; padding: 2px 12px 12px;">Status</td>
+                    <td style="text-align:right; padding: 2px 12px 12px;">
+                        <mj-class="tag-orange">Pendente</mj-class>
+                    </td>
+                </tr>
+            </mj-table>
+        </mj-column>        
+    </mj-section>        
+
+    <!-- Action / Dicas -->        
+    <mj-section mj-class="p-np pt-np">
+        <mj-column width="100%" mj-class="bg-white">
+            <mj-button
+                mj-class="bg-red c-white"
+                padding="0"
+                height="32px"
+                align="center"
+                font-size="16px"
+                font-weight="bold"
+                href="${url.detalhes.consulta}"
+                border-radius="100px"
+                >Ver detalhes da consulta
+            </mj-button>        
+            
+            <mj-text mj-class="pt-30 pb-30 t-small" align="center">
+                <span>Dicas de segurança</span><br>Não conte o seu login e senha para ninguém, estas são informações pessoais.<br>Garanta a segurança dos seus dados!
+            </mj-text>          
+
+        </mj-column>        
+    </mj-section>        
+
+    <!-- Rodapé -->
+   <mj-section mj-class="full-width p-np bg-gray-01">
+
+        <mj-column width="100%">
+          <mj-image
+            src="logo-integra-footer.png"
+            alt="Rede Integra Saúde - Uma vida saudável em todos os pilares"
+            align="center"
+            mj-class="pt-30"
+            width="64px"
+          />
+            <mj-text mj-class="pb-0 c-white t-normal-b" align="center">
+            Rede Integra Saúde
+          </mj-text>   
+        </mj-column>        
+   
+        <mj-column width="100%" mj-class="bg-gray-01 pt-0 pb-15">
+          <mj-text mj-class="p-np pt-15 c-white" align="center">
+        Dúvidas? Saiba mais na nossa <a href="https://redeintegrasaude.com" mj-class="c-white">Central de Ajuda</a><br>
+        SAC 0800 000 000<br>
+        <a href="mailto:ajuda@redeintegrasaude.com">ajuda@redeintegrasaude.com</a>
+          </mj-text>    
+        </mj-column>
+
+        <mj-column width="100%" mj-class="bg-gray-01 pt-15 pb-15">
+          <mj-text mj-class="p-np c-white" align="center">
+              Siga nas redes sociais
+          </mj-text>    
+        </mj-column>
+
+        <mj-column mj-class="p-0">
+            <mj-image href="https://www.instagram.com/" target="_blank" src="instagram.png" width="32px" alt="social-integra-saude" align="center" />        
+        </mj-column>
+        <mj-column mj-class="p-0">
+            <mj-image href="https://www.facebook.com/" target="_blank" src="facebook.png" width="36px" alt="social-integra-saude" align="center" />        
+        </mj-column>
+        <mj-column mj-class="p-0">
+            <mj-image href="https://www.linkedin.com/" target="_blank" src="linkedin.png" width="36px" alt="social-integra-saude" align="center" />        
+        </mj-column>
+        <mj-column mj-class="p-0">
+            <mj-image href="https://twitter.com/" target="_blank" src="twitter.png" width="36px" alt="social-integra-saude" align="center" />        
+        </mj-column>    
+        
+        <mj-column width="100%" mj-class="pt-15 pb-15">      
+          <mj-divider mj-class="p-8" border-width="1px" border-style="solid" border-color="#ffffff" />    
+          <mj-image
+              src="logo-equilibrio-footer.png"
+              alt="Rede Integra Saúde - Uma vida saudável em todos os pilares"
+              align="center"
+              mj-class="pb-15"          
+              width="82px"
+            />
+          <mj-text mj-class="pt-np c-white" align="center">
+            <strong>Rede Integra Saúde</strong> <br> <strong>CNPJ</strong> 123.123.123.000-00
+          </mj-text>        
+          <mj-text mj-class="ph-np pt-15 c-white t-small" align="center">
+              © Copyright © 2023 Rede Integra Saúde | Todos os direitos reservados
+          </mj-text>      
+        </mj-column>      
+
+    </mj-section>
+
+  </mj-body>
+</mjml>
